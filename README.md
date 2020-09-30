@@ -1,7 +1,7 @@
 # Telegram channel mirroring app 
 
 App helps make telegram channel mirror. We will use Telegram client API because Bot API have limited functionality. 
-
+i am learning more in advance to improve this 
 ### Functionality
 1. Catching *NewMessage* and *MessageEdited* event and sending them forward
 2. Flexible source and target channels mapping
